@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>奧斯卡獎 on 鼻煙狐 | 狐狸大冒險旅記</title>
+    <link>https://foxsland.github.io/tags/%E5%A5%A7%E6%96%AF%E5%8D%A1%E7%8D%8E/</link>
+    <description>Recent content in 奧斯卡獎 on 鼻煙狐 | 狐狸大冒險旅記</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-TW</language>
+    <lastBuildDate>Sat, 13 Mar 2021 21:07:47 +0800</lastBuildDate>
+    
+	<atom:link href="https://foxsland.github.io/tags/%E5%A5%A7%E6%96%AF%E5%8D%A1%E7%8D%8E/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>鼻煙狐測試文</title>
+      <link>https://foxsland.github.io/blog/test/</link>
+      <pubDate>Sat, 13 Mar 2021 21:07:47 +0800</pubDate>
+      
+      <guid>https://foxsland.github.io/blog/test/</guid>
+      <description>一級標題 二級標題 六級標題 print(&amp;#34;hello world&amp;#34;)hello world
+* chimi* 廖文強 second hello world</description>
+    </item>
+    
+  </channel>
+</rss>
